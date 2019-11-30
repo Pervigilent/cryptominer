@@ -1,0 +1,2 @@
+# cryptominer
+Cryptocurrency miner
